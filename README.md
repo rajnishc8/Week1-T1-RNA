@@ -23,6 +23,4 @@ react-native run-android
     2c.) react-native link        <- do this after installing all npm packages.
 ```
 3. react-native run-android.
-4. wait few moments . You should see app running in device or emulator. 
-
- Note : "remote repository URL" looks like -> https://github.com/rajnishc8/Week1-T1-RNA
+4. wait few moments . You should see app running in device or emulator.
