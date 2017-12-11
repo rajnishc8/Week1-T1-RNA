@@ -7,6 +7,7 @@ This app demonstrates use of react-native to create project which use react-navi
 1. Clone repository   
 ```
 git clone https://github.com/rajnishc8/Week1-T1-RNA
+cd Week1-T1-RNA
 npm install
 react-native run-android
 ```
